@@ -28,3 +28,20 @@ The project demonstrates the use of:
 ---
 
 ## 📂 Project Structure
+- index.html
+- style.css
+- script.js
+---
+
+---
+
+## 🚀 Live Demo
+Demo video is available on my LinkedIn profile (Featured section).
+
+---
+
+## 👤 Author
+**Sakshi Gaikwad**
+
+
+
