@@ -1,4 +1,3 @@
-# ApexPlanet_intership
 # ApexPlanet Internship – Task 1
 
 ## 📌 Project Overview
